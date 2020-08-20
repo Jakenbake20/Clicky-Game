@@ -9,6 +9,7 @@ https://share.getcloudapp.com/jkuZLkRn
 
 ## Technologies 
 * REACT
+* Heroku
 * NODE
 * javascript
 * HTML/JSX

@@ -4,7 +4,7 @@ This is a fun Game of Thrones themed clicky game for my UofU bootcamp
 ## About
 This is a simple memory game. Just click each card and don't pick the same card twice. Seems easy right? Give it a try!  https://gameofclicky.herokuapp.com/
 
-## Image from game
+## Beat my high score(Pssst, You can't)
 https://share.getcloudapp.com/jkuZLkRn
 
 ## Technologies 

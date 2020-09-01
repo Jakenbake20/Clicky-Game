@@ -17,4 +17,9 @@ https://share.getcloudapp.com/jkuZLkRn
 
 ### Author
 #### Jacob Wheat
+
+
 * Check out the github! https://github.com/Jakenbake20/Clicky-Game
+
+* Try the game here!! https://jakenbake20.github.io/Clicky-Game/ 
+
